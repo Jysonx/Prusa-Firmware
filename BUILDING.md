@@ -10,7 +10,7 @@ If you already use a different Arduino IDE version for other projects and don't 
 ### Step 2 - Prepare the Arduino toolchain
 
 1. Open the IDE
-2. Choose _File -> Preferences_ and set "Additional Boards Manager URLs" to the RAMBo repository:<br/> <a href="https:// raw.githubusercontent.com/ultimachine/ArduinoAddons/master/package_ultimachine_index.json" target="_blank">https:// raw.githubusercontent.com/ultimachine/ArduinoAddons/master/package_ultimachine_index.json</a>
+2. Choose _File -> Preferences_ and set "Additional Boards Manager URLs" to the RAMBo repository:<br/> <a href="https://raw.githubusercontent.com/ultimachine/ArduinoAddons/master/package_ultimachine_index.json" target="_blank">https://raw.githubusercontent.com/ultimachine/ArduinoAddons/master/package_ultimachine_index.json</a>
 3. Select _Tools -> Boards -> Boards Manager_ and install the RAMBo board:<br/>"<small>**RepRap Arduino-compatible Mother Board (RAMBo)** by **UltiMachine**</small>"
 4. Close the IDE.
 5. Open the IDE and select **RAMBo** as target board from the _Tools -> Boards_ submenu.
